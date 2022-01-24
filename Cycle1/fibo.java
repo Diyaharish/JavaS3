@@ -7,7 +7,7 @@ class fibo
      int n,i,f=0,s=1,nxt;
      System.out.println("Enter an integer");
      n=obj.nextInt();
-     System.out.println("Fibonacci Series ");
+     System.out.println("Fibonacci Series");
      for(i=1;i<=n;i++)
       {
         System.out.println(f);
