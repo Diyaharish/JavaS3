@@ -1,5 +1,5 @@
 import java.util.*;
-class odd
+class oddeven
 {
     public static void main(String args[])
     {
