@@ -24,7 +24,7 @@ class searchcharacter
             flag=1;
         }
         if(flag==1)
-        System.out.println("Character is not preent");
+        System.out.println("Character is not present");
         else
         System.out.println("Character is present at "+(i+1));
     }
