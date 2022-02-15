@@ -4,7 +4,7 @@ class arrayout
 	{
 		try{
 			int a[]={1,2,3};
-			System.out.println(a[5]);
+			System.out.println(a[6]);
 		}
 		catch(ArrayIndexOutOfBoundsException e)
 		{
